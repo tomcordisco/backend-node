@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Remera oversize blanca",
+        "description": "description",
+        "price": "10",
+        "thumbnail": "img1",
+        "code": "22",
+        "id": 1,
+        "stock": 10
+    },
+    {
+        "title": "Remera oversize negra",
+        "description": "description",
+        "price": "10",
+        "thumbnail": "img2",
+        "code": "12",
+        "id": 2,
+        "stock": 10
+    },
+    {
+        "title": "Remera oversize verde",
+        "description": "description",
+        "price": "10",
+        "thumbnail": "img3",
+        "code": "32",
+        "id": 3,
+        "stock": 10
+    },
+    {
+        "title": "Remera oversize roja",
+        "description": "description",
+        "price": "10",
+        "thumbnail": "img4",
+        "code": "65",
+        "id": 4,
+        "stock": 10
+    }
+]
